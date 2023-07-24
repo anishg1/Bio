@@ -1,13 +1,3 @@
-<style>
-blue {
-  color: lightblue;
-}
-
-green {
-  color: lightgreen;
-}
-</style>
-
 # <blue>**Anish Ganguli**</blue>
 ### <blue>_Data Scientist_</blue>
 
