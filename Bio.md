@@ -86,13 +86,13 @@ Deep Learning, Product Development
   > > Jul, 2012 - May, 2015
 
 ## <u>Talks & Presentation</u>
-- King's College, London
+- [King's College, London](https://www.kcl.ac.uk/)
   > Presentation Date : Dec 19, 2022 </br>
   > Topic : <green>**How to Detect Significance of Intervention Effects in Time Seires**</green> </br>
   > Certificate : </br>
 ![](images/cert1.png)
 
-- University of Tezpur, Assam
+- [University of Tezpur, Assam](http://www.tezu.ernet.in/)
   > Presentation Date : Dec 19, 2022 </br>
   > Topic : <green>**Application of Data Science in Finance Domain**</green> </br>
   > Certificate : </br>
