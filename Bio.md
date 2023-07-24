@@ -1,5 +1,5 @@
 # **Anish Ganguli**
-### <span style="color: blue;">_Data Scientist_</span>
+### <span style='color: blue;'>_Data Scientist_</span>
 
 ## <u>Contact</u>
 
