@@ -4,7 +4,6 @@
 ## <u>Contact</u>
 
 Mail id :- [anish.analytics1@gmail.com](mailto:anish.analytics1@gmail.com) </br>
-Phone :- +91 8420510608 </br>
 LinkedIn :- [LinkedIn Profile](https://www.linkedin.com/in/anish-ganguli-404b63107/) </br>
 Location :- [Bengaluru, India](https://www.google.com/maps/@12.9332167,77.703669,18.82z/data=!5m1!1e1?entry=ttu)
 
