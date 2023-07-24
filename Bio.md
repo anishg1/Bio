@@ -70,18 +70,18 @@ Deep Learning, Product Development
 
 </br>
 
-- [**Indian Statistical Institute, Kolkata**]()
+- [**Indian Statistical Institute, Kolkata**](https://www.isical.ac.in/)
   > Research Assisstant
   >> Sep, 2017 - Apr, 2018 </br>
   >> Skills : Research, Applied Statistics, R
 - Did extensive research on applied statistics especially on Robust Inference based parameter estimation approach.
 
 ## <u>Education</u>
-- University of Delhi, New Delhi
+- [University of Delhi, New Delhi](https://www.du.ac.in/)
   > M.Sc. in Statistics
   > > Aug, 2015 - Jun, 2017
   > 
-- St. Xavier's College, Kolkata
+- [St. Xavier's College, Kolkata](https://www.sxccal.edu/)
   > B.Sc. in Statistics
   > > Jul, 2012 - May, 2015
 
