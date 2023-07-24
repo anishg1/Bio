@@ -22,7 +22,7 @@ end to end projects.
 
 ## <u>Experience</u>
 
-- [**Walmart Global Tech India, Bengaluru**]([_Walmart Global Tech India_](https://www.linkedin.com/company/walmartglobaltechindia/mycompany/))
+- [**Walmart Global Tech India, Bengaluru**](https://www.linkedin.com/company/walmartglobaltechindia/mycompany/)
   > Data Scientist 
   >> Jun, 2021 - Present </br>
   >> Skills : PySpark, Python, Explainable AI, Time Series Forecasting, 
