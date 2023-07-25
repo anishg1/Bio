@@ -92,7 +92,7 @@ Deep Learning, Product Development
 ![](images/cert1.png)
 
 - [University of Tezpur, Assam](http://www.tezu.ernet.in/)
-  > Presentation Date : Dec 19, 2022 </br>
+  > Presentation Date : Mar 3, 2023 </br>
   > Topic : <green>**Application of Data Science in Finance Domain**</green> </br>
   > Certificate : </br>
 ![](images/cert2.png)
