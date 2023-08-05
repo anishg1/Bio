@@ -24,7 +24,7 @@ end to end projects.
 - [**Walmart Global Tech India, Bengaluru**](https://www.linkedin.com/company/walmartglobaltechindia/mycompany/)
   > Data Scientist 
   >> Jun, 2021 - Present </br>
-  >> Skills : PySpark, Python, Google Cloud Platforms, SQL Explainable AI, Time Series Forecasting, 
+  >> Skills : PySpark, Python, Google Cloud Platforms, SQL, Explainable AI, Time Series Forecasting, 
 Deep Learning, Product Development
     - Involved in the development and deployment of multiple 
     <green>**business KPIs' (Markdown, Markup etc.)**</green> forecasting frameworks. 
