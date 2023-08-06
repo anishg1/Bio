@@ -38,7 +38,7 @@ Deep Learning, Product Development
     and explain the impact of different business metrics on CPH. The framework 
     involved <green>**CPH prediction (with XGBoost) with an XAI (Explainable AI) layer**</green> 
     which helped business quantify the impact of different factors on CPH.
-    - Involved in the development of <">**Zero Intermittent Sales Forecasting**</green> for a 
+    - Involved in the development of <green>**Zero Intermittent Sales Forecasting**</green> for a 
     separate entity within Walmart using 
     <green>**Time Series Characterization and LSTM**</green>.
   
